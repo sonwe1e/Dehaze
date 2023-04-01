@@ -21,7 +21,7 @@ test_transform = transforms.Compose([
     # transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
     ])
 
-ckpt = torch.load('Ckpt/test-0929.pth', map_location='cuda:1')
+ckpt = torch.load('Ckpt/test-1155.pth', map_location='cuda:1')
 
 Generator.load_state_dict(ckpt)
 Generator.eval()

@@ -44,7 +44,7 @@ def main():
         
     # 定义网络
     model = UNet_Nested().cuda(args.gpu_ids)
-    model.load_state_dict(torch.load('Ckpt/test-1360.pth'))
+    model.load_state_dict(torch.load('Ckpt/test-0929.pth'))
     print(model)
     
     # 定义损失函数

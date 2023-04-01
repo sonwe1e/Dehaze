@@ -1,0 +1,59 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.13.10
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.9.16
+    start_time: 1680273982.59431
+    t:
+      1:
+      - 1
+      - 5
+      - 41
+      - 53
+      - 55
+      - 80
+      2:
+      - 1
+      - 5
+      - 41
+      - 53
+      - 55
+      - 80
+      3:
+      - 13
+      - 15
+      - 16
+      - 23
+      4: 3.9.16
+      5: 0.13.10
+      8:
+      - 5
+batch_size:
+  desc: null
+  value: 10
+epochs:
+  desc: null
+  value: 8000
+exp_name:
+  desc: null
+  value: test
+gpu_ids:
+  desc: null
+  value: cuda:0
+lr:
+  desc: null
+  value: 0.0002
+lr_find:
+  desc: null
+  value: false
+seed:
+  desc: null
+  value: 413
+test:
+  desc: null
+  value: false

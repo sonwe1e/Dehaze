@@ -1,0 +1,265 @@
+{
+    "os": "Linux-5.4.0-113-generic-x86_64-with-glibc2.31",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-03-31T14:46:25.790782",
+    "startedAt": "2023-03-31T14:46:22.559489",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/media/amax/ef914467-feed-4743-b2ec-58c3abb24e7a/Asonwe1e/Dehazing/GANTrain.py",
+    "codePath": "GANTrain.py",
+    "git": {
+        "remote": "https://github.com/sonwe1e/Dehaze.git",
+        "commit": "d09c4949043ae9ef116c40cece5bf2c7176707ae"
+    },
+    "email": "sonwe1e@outlook.com",
+    "root": "/media/amax/ef914467-feed-4743-b2ec-58c3abb24e7a/Asonwe1e/Dehazing",
+    "host": "amax",
+    "username": "amax",
+    "executable": "/home/amax/.conda/envs/sw/bin/python",
+    "cpu_count": 20,
+    "cpu_count_logical": 40,
+    "cpu_freq": {
+        "current": 1276.5390999999997,
+        "min": 1000.0,
+        "max": 3200.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1000.05,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1523.14,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.043,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2559.908,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1098.227,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.377,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.469,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.539,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1507.856,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2400.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 999.983,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 999.907,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 999.914,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 999.976,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.003,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 999.894,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.052,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1716.225,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 999.973,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 999.955,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.068,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1418.838,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.138,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2730.533,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1098.915,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.056,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.04,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.272,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1811.379,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2399.903,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.126,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.036,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.023,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.091,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.131,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.06,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 999.993,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1827.928,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.029,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 999.92,
+            "min": 1000.0,
+            "max": 3200.0
+        }
+    ],
+    "disk": {
+        "total": 430.86780548095703,
+        "used": 205.0288963317871
+    },
+    "gpu": "NVIDIA GeForce RTX 3090",
+    "gpu_count": 6,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25769803776
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25769803776
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25769803776
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25769803776
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25769803776
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25769803776
+        }
+    ],
+    "memory": {
+        "total": 125.57311248779297
+    }
+}
